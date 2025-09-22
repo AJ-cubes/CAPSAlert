@@ -40,7 +40,7 @@ Received_AHK_NOTIFYICON(wParam, lParam, msg, hwnd)
     {
         circleOn := !circleOn
         UpdateTray()
-        capsLockMsg := circleOn ? "✅ Circle will show" : "❌ Circle won't show"
+        capsLockMsg := circleOn ? "✅ The circle around the mouse pointer will show" : "❌ The circle around the mouse pointer won't show"
         MsgBox(capsLockMsg, capsLockMsg, "T1")
         return true
     }
