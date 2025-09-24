@@ -1,4 +1,4 @@
-# [CAPSAlert]()
+# [CAPSAlert](../../)
 
 Display icons in the system tray to indicate whether CapsLock is on or off. Display a pulsing circle around the mouse when CapsLock is on and the feature is enabled - code written in AutoHotkey v2.0 (.ahk). Code compiled into Windows Executable (.exe).
 
