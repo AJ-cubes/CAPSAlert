@@ -1,32 +1,42 @@
 # [CAPSAlert](../../)
 
-Display icons in the system tray to indicate whether CapsLock is on or off. Display a pulsing circle around the mouse when CapsLock is on and the feature is enabled - code written in AutoHotkey v2.0 (.ahk). Code compiled into Windows Executable (.exe).
+Display icons in the system tray to indicate whether CapsLock is on or off. Display a pulsing circle around the mouse when CapsLock is on and the feature is enabled - code written in AutoHotkey v2.0 (.ahk). Code compiled into Windows Executable (`.exe`).
 
 - Icons displayed in the System Tray.
 - Icons display based on:
   - CapsLock on or off
   - Circle display toggled on or off
-- Made with AutoHotkey (.ahk)
-- Compiled into Windows Executable (.exe)
+- Made with AutoHotkey (`.ahk`)
+- Compiled into Windows Executable (`.exe`)
 
 ## Installation
 
 There are two methods to install. 
 
-**Method 1: The AutoHotkey file (.ahk)**
+### **Method 1: The AutoHotkey file (`.ahk`)**
 - Make sure you have AutoHotkey v2.0 installed on your computer. If not, download [here](https://www.autohotkey.com/v2/).
 - [Download](CAPSAlert.ahk) the AutoHotkey file.
 - Double-click to run it using AutoHotkey.
 
-**Method 2: The Windows Executable file (.exe)**
+### **Method 2: The Windows Executable file (`.exe`)**
 - [Download](CAPSAlert.exe?raw=true) the Windows Executable.
 - Double-click it to run it. If blocked by Windows Defender, click 'More' then 'Run Anyway'.
 
-**How to Show a System Tray Icon Permanently:**
+### **Show system tray icon**
 - In the bottom-right corner of your screen, near the time and Wi-Fi icons, click the up arrow (˄).
 - Locate the icon for your file or application in the pop-up tray.
 - Drag the icon from the pop-up tray into the main area next to the time and Wi-Fi icons.
 - Windows will now keep this icon visible in the system tray for easy access.
+
+### **Auto-Start on Boot (Optional)**
+To run the script automatically when Windows starts:
+
+1. Press `Win + R` to open the Run dialogue.
+2. Type `shell:startup` and press Enter. This opens your Startup folder.
+3. Copy the `.ahk` or `.exe` file into this folder
+4. **Remember to always keep the file in the folder**
+
+#### **Now it will run on startup automatically!**
 
 ## [Assets](README.md)
 
