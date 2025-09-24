@@ -15,11 +15,11 @@ There are two methods to install.
 
 ### **Method 1: The AutoHotkey file (`.ahk`)**
 - Make sure you have AutoHotkey v2.0 installed on your computer. If not, download [here](https://www.autohotkey.com/v2/).
-- [Download](CAPSAlert.ahk) the AutoHotkey file.
+- Download the AutoHotkey file [here](CAPSAlert.ahk).
 - Double-click to run it using AutoHotkey.
 
 ### **Method 2: The Windows Executable file (`.exe`)**
-- [Download](CAPSAlert.exe?raw=true) the Windows Executable.
+- Download the Windows Executable [here](CAPSAlert.exe?raw=true).
 - Double-click it to run it. If blocked by Windows Defender, click 'More' then 'Run Anyway'.
 
 ### **Show system tray icon**
