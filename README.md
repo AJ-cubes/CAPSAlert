@@ -16,9 +16,9 @@ Display icons in the system tray to indicate whether CapsLock is on or off. Disp
 - [Icons (.ico)](../../)
 - [Icons (.png)](Icons)
 
-## [Details](Posters/CAPSAlert%20Poster.png)
+## [Details](Posters/CAPSAlert_Poster.png)
 
-![Details -  Poster](Posters/CAPSAlert%20Poster.png)
+![Details -  Poster](Posters/CAPSAlert_Poster.png)
 
 ## [License](LICENSE)
 
