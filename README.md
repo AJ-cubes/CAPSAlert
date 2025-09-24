@@ -19,7 +19,7 @@ Display icons in the system tray to indicate whether CapsLock is on or off. Disp
 
 MIT License
 
-Copyright (c) 2025 ABCs
+Copyright (c) 2025 The ABCs of Coding
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -39,4 +39,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Product of the ABCs
+---
+
+*Product of the ABCs of Coding*
+
