@@ -1,9 +1,42 @@
 # CAPSAlert
 
-### Features
+Thank you for taking a look at this product!
 
-* Colour red and green for on and off, respectively.
-* Lightning display will show if circle alert mode is on or off.
-* To toggle circle alert mode, double-click the icon in the taskbar menu.
+## Features
+
+- Icons displayed in the System Tray.
+- Icons display based on:
+  - CapsLock on or off
+  - Circle display toggled on or off
+- Made with AutoHotkey (.ahk)
+- Compiled into Windows Executable (.exe)
+
+## Details
+
+![Details -  Poster](Presentation/CAPSAlert%20-%20Presentation.png)
+
+## [License](LICENSE)
+
+MIT License
+
+Copyright (c) 2025 ABCs
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Product of the ABCs
