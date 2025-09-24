@@ -9,6 +9,25 @@ Display icons in the system tray to indicate whether CapsLock is on or off. Disp
 - Made with AutoHotkey (.ahk)
 - Compiled into Windows Executable (.exe)
 
+## Installation
+
+There are two methods to install. 
+
+**Method 1: The AutoHotkey file (.ahk)**
+- Make sure you have AutoHotkey v2.0 installed on your computer. If not, download [here](https://www.autohotkey.com/v2/).
+- [Download](CAPSAlert.ahk) the AutoHotkey file.
+- Double-click to run it using AutoHotkey.
+
+**Method 2: The Windows Executable file (.exe)**
+- [Download](CAPSAlert.exe?raw=true) the Windows Executable.
+- Double-click it to run it. If blocked by Windows Defender, click 'More' then 'Run Anyway'.
+
+**How to Show a System Tray Icon Permanently:**
+- In the bottom-right corner of your screen, near the time and Wi-Fi icons, click the up arrow (˄).
+- Locate the icon for your file or application in the pop-up tray.
+- Drag the icon from the pop-up tray into the main area next to the time and Wi-Fi icons.
+- Windows will now keep this icon visible in the system tray for easy access.
+
 ## [Assets](README.md)
 
 - [Original code (.ahk)](CAPSAlert.ahk?raw=true)
