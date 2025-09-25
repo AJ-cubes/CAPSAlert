@@ -14,7 +14,7 @@ Display icons in the system tray to indicate whether CapsLock is on or off. Disp
 There are two methods to install. 
 
 ### **Method 1: The AutoHotkey file (`.ahk`)**
-- Make sure you have AutoHotkey v2.0 installed on your computer. If not, download [here](https://www.autohotkey.com/v2/).
+- Make sure you have AutoHotkey v2.0 installed on your computer. If not, download [here](https://www.autohotkey.com/v2/). ***\*\*\*You may need administrator rights to install AutoHotkey\*\*\****
 - Download the AutoHotkey file [here](CAPSAlert.ahk).
 - Double-click to run it using AutoHotkey.
 
@@ -34,7 +34,7 @@ To run the script automatically when Windows starts:
 1. Press `Win + R` to open the Run dialogue.
 2. Type `shell:startup` and press Enter. This opens your Startup folder.
 3. Copy the `.ahk` or `.exe` file into this folder
-4. **Remember to always keep the file in the folder**
+4. **Remember always to keep the file in the folder**
 
 #### **Now it will run on startup automatically!**
 
