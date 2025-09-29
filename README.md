@@ -1,4 +1,4 @@
-# CAPSAlert
+# `CAPSAlert`
 
 Display icons in the system tray to indicate whether CapsLock is on or off. Display a pulsing circle around the mouse when CapsLock is on and the feature is enabled - code written in AutoHotkey v2.0 (`.ahk`). Code compiled into Windows Executable (`.exe`).
 
@@ -11,16 +11,16 @@ Display icons in the system tray to indicate whether CapsLock is on or off. Disp
 
 ## Installation
 
-There are two methods to install. 
+There are `2` methods to install `CAPSAlert`. 
 
-### **Method 1: The AutoHotkey file (`.ahk`)**
-- Make sure you have AutoHotkey v2.0 installed on your computer. If not, download [here](https://www.autohotkey.com/v2/). ***\*\*\*You may need administrator rights to install AutoHotkey\*\*\****
-- Download the AutoHotkey file [here](CAPSAlert.ahk). ***\*\*\*To run it, you will also need to download the `.ico` files along with it and keep it in the same folder.\*\*\****
-- Double-click to run it using AutoHotkey.
-
-### **Method 2: The Windows Executable file (`.exe`)**
+### Method `1`: The Windows Executable file (`.exe`)
 - Download the Windows Executable [here](CAPSAlert.exe?raw=true).
 - Double-click it to run it. If blocked by `Windows Defender`, click `'More'` then `'Run Anyway'`. ***\*\*\*You may need administrator rights to bypass `Windows Defender`\*\*\****
+
+### Method `2`: The AutoHotkey file (`.ahk`) ***\*\*\*Experimental\*\*\****
+- Make sure you have AutoHotkey v2.0 installed on your computer. If not, download [here](https://www.autohotkey.com/v2/). ***\*\*\*You may need administrator rights to install AutoHotkey\*\*\****
+- Download the AutoHotkey file [here](CAPSAlert.ahk). ***\*\*\*To run it, you will also need to download the `.ico` files along with it and keep them all in the same folder.\*\*\****
+- `Double-click` the file to run `CAPSAlert`. If prompted, choose to open with `AutoHotkey Launcher`.
 
 ### **Show system tray icon**
 - In the bottom-right corner of your screen, near the time and Wi-Fi icons, click the up arrow (˄).
