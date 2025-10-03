@@ -38,16 +38,19 @@ To run the script automatically when Windows starts:
 
 #### **Now it will run on startup automatically!**
 
+## Details
+
+![Details -  Poster](Posters/CAPSAlert_Poster.png)
+
 ## Assets
 
 - [Original code (`.ahk`)](CAPSAlert.ahk?raw=true)
 - [Windows Executable (`.exe`)](CAPSAlert.exe?raw=true)
+- [Poster](Posters/CAPSAlert_Poster.png)
 - [Icons (.ico)](../../)
 - [Icons (.png)](Icons)
-
-## Details
-
-![Details -  Poster](Posters/CAPSAlert_Poster.png)
+- [License](LICENSE)
+- [Readme](README.md)
 
 ## License
 
