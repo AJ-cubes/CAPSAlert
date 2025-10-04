@@ -1,6 +1,8 @@
 #Requires AutoHotkey v2.0
 #SingleInstance Force
 
+; GitHub: https://github.com/AJ-cubes/CAPSAlert
+
 ; Setup
 SetWinDelay(-1)
 CoordMode("Mouse", "Screen")
